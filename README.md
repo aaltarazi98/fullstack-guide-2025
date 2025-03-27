@@ -169,7 +169,7 @@ You may or may not need to LeetCode to land a job, however I strongly recommend 
 
 - Go through [this repo](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews) pattern by pattern and look up how to solve problems of each pattern until you understand them and can solve them.
 
-- [A very helpful and structured guide for LC problems](https://neetcode.io/)
+- I STRONGLY recommend [NeetCode](https://neetcode.io/) to start your DSA hacking journey. Headover to the road map and begin from the top, and take your time to learn the concepts and fully understand how to solve problems!
 
 Build your LeetCode experience and solve problems as much as you can.
 
