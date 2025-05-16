@@ -8,7 +8,7 @@ I want to preface this by saying, this is NOT the only way to learn full-stack e
 
 Do NOT be overwhelmed with the sheer amount of content here. It is a lot, but it will all become secondhand knowledge with time. Take it one section at a time and do what you can. Now without further ado, let's get started.
 
-**Disclaimer as of 2025**: There has been a lot of development in AI and you can now do things like vibe coding and essentially code a small project without having to write a line of code. Needless to say, this is not an effective way to learn how to code, and the more you rely on it the less you will learn. I encourage you to avoid using AI, and if you do, to only use it like a more targeted google search. Plus, whatever you can vibe code together will have minimal functionality and at some point be impossible to maintain or evolve. AI is a crutch that will not help you at all if you're in an interview and you get asked a technical question.
+**Note as of 2025**: There has been a lot of development in AI and you can now do things like vibe coding and essentially code a small project without having to write a line of code. Needless to say, this is not an effective way to learn how to code, and the more you rely on it the less you will learn. I encourage you to avoid using AI, and if you do, to only use it like a more targeted google search. Plus, whatever you can vibe code together will have minimal functionality and at some point be impossible to maintain or evolve. AI is a crutch that will not help you at all if you're in an interview and you get asked a technical question.
 
 ## Roadmap
 
