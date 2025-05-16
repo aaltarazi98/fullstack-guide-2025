@@ -2,11 +2,13 @@
 
 In this post I will be writing a detailed guide on how to get a full-stack engineer job the self teaching way. This will include a more efficient version of what I did so you don't waste time. I will be going over what you need to learn, resources, and what you need to do after. It is critically important that you take EACH section to heart.
 
-A little background about me, I have been a construction engineer for a year when I decided construction was not for me and I wanted to go somewhere else. I took quizzes on what I should become, I landed on fullstack development and I haven't looked back since. Since then, I have learned a lot, built great projects, made connections, worked a contract, and landed a full time job. This process took me 8 months and it may take more or less time for you depending on who you are.
+A little background about me, I was a construction engineer for a year when I decided construction was not for me and I wanted to go somewhere else. I took quizzes on what I should become, I landed on fullstack development and I haven't looked back since. Since then, I have learned a lot, built great projects, made connections, and became a professional software engineer. This process took me 8 months and it may take more or less time for you depending on who you are.
 
-I want to preface this by saying, this is NOT the only way to learn full-stack development and there are many other stacks you can learn. This guide is focused on MERN & PERN which are very popular in the USA. For instance, [the Odin Project for JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?) is a great alternative.
+I want to preface this by saying, this is NOT the only way to learn full-stack engineer and there are many other stacks you can learn. This guide is focused on MERN & PERN which are very popular in the USA. For instance, [the Odin Project for JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?) is a great alternative.
 
 Do NOT be overwhelmed with the sheer amount of content here. It is a lot, but it will all become secondhand knowledge with time. Take it one section at a time and do what you can. Now without further ado, let's get started.
+
+**Disclaimer as of 2025**: There has been a lot of development in AI and you can now do things like vibe coding and essentially code a small projcet without having to write a line of code. Needless to say, this is not an effective way to learn how to code, and the more you rely on it the less you will learn anything. I encourage you to avoid using AI, and if you do, to only use it like a more targeted google search. Plus, whatever you can vibe code together will have minimal functionality and at some point be impossible to maintain or evolve.
 
 ## Roadmap
 
@@ -139,6 +141,7 @@ This is incredibly important if you want to stand out, here is some extra stuff 
 
 
 - [Material UI](https://mui.com/) - A library of components that makes building frontend projects easy and uniform. Highly sought after in candidates and I use it on each and every single one of my projects.
+- [TailwindCSS](https://tailwindcss.com/) - A utility-first CSS styling tool using preconfigured classes that enhances production experience and allows you to build lightweight components very fast.
 - [Redux & Redux Toolkit](https://www.youtube.com/watch?v=iBUJVy8phqw) - A state management library that makes managing global state in your projects really easy. Strongly recommended.
 - [React Router](https://www.youtube.com/watch?v=Law7wfdg_ls) - A library that helps manage pages on your apps.
 - [JWT & bcrypt](https://www.youtube.com/watch?v=mbsmsi7l3r4) - Straightforward packages that help secure your backends: 
